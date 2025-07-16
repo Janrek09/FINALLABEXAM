@@ -2,7 +2,7 @@
     <div class="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white">
         <!-- Header Section -->
         <div class="bg-gray-800 border-b border-gray-700 py-8">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+            <div class="max-w-7xl mx-auto px-4 spm:px-6 lg:px-8 flex justify-between items-center">
                 <div class="text-center sm:text-left">
                     <h1 class="text-4xl font-bold text-red-400 mb-2">💍 Wedding Dashboard</h1>
                     <p class="text-lg text-gray-300">Plan your dream day with ease and elegance </p>
